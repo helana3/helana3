@@ -61,11 +61,6 @@
   
 </p>
 
-<a href="https://github.com/HelanaEmad/github-readme-stats">
-    <img align="left"  alt="helanaemad1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=helanaemad1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/helanaemad1/github-readme-stats">
-    <img align="right" alt="helanaemad1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helanaemad1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
 
 
 
