@@ -41,7 +41,6 @@
 <a href = "https://mahmoudshahen658@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" /></a>
 <a href = "https://www.linkedin.com/in/helana-emad-a27059283/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
 <a href = "https://www.facebook.com/groups/918784798987325/user/100016768213626"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" /></a>
-<img src="https:mahmoudshahen8413//img.icons8.com/doodle/48/fa314a/discord-logo.png" width="50" height="50" /></a>
 </p>
 
 
@@ -62,10 +61,10 @@
   
 </p>
 
-<a href="https://github.com/MahmoudShahin/github-readme-stats">
-    <img align="left"  alt="mahmoudshahin1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudshahin1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mahmoudshahin1/github-readme-stats">
-    <img align="right" alt="mahmoudshahin1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshahin1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/HelanaEmad/github-readme-stats">
+    <img align="left"  alt="helanaemad1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=helanaemad1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/helanaemad1/github-readme-stats">
+    <img align="right" alt="helanaemad1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helanaemad1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 
